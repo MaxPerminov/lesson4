@@ -1,2 +1,2 @@
-z =1 
-print(z)
+a = 1 
+print(a)
